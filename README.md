@@ -1,5 +1,5 @@
 
-# Sample: Analysis Report for XXX (Startup)
+# AE Report for XXX (Startup)
 
 ## Summary: 
 - Healthy subscription retention ; customer acquisition varies dramatically between months, likely due to marketing campaigns. 
