@@ -1,0 +1,33 @@
+---
+---
+
+@import "{{ site.theme }}";
+* {
+	box-sizing: content-box;
+}
+.page-header {
+	background-color: #ea7985;
+	background-image: url(https://raw.githubusercontent.com/JianhengHou/consumption-tracking-and-causal-analysis/master/fig/03_Start-up-Funding_Animations_2019-2020_USD.gif);
+	background-size: cover;
+}
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+	color: #ea7985;
+}
+.main-content table th, .main-content table td {
+  padding: 0.5rem 1rem;
+  border: 0px;
+}
+img {
+	max-height: 500px;
+	display: block;
+}
+em {
+	font-size: small;
+}
+footer {
+  display: none !important;
+}
+
+.btn {
+  display: none !important;
+}
